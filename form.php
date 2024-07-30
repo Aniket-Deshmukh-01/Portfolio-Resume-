@@ -2,10 +2,10 @@
 
 <?php
 // Database configuration
-$servername = "sql312.infinityfree.com";
-$username = "if0_34807537";
-$password = "5owUnn0ffCyH";
-$dbname = "if0_34807537_protfolio";
+$servername = "           ";
+$username = "            ";
+$password = "            ";
+$dbname = "              ";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

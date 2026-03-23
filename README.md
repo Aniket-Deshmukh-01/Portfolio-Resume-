@@ -1,2 +1,2 @@
-This is my personal portfolio project
-Created by : Aniket Deshmukh
+This is personal portfolio project
+
